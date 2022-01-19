@@ -1,0 +1,7 @@
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/install/strip.dir
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/install/local.dir
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/install.dir
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/list_install_components.dir
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/rebuild_cache.dir
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/edit_cache.dir
+/home/mert/Desktop/xeus-cling/armadillo-10.7.5/CMakeFiles/armadillo.dir
