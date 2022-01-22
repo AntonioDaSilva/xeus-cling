@@ -1,7 +1,7 @@
 libblas-dev
 liblapack-dev
 libhdf5-dev	
-libhdf5-serial-dev
+libhdf5-serial-dev-103
 libboost-dev
 libarpack++2-dev
 libsuperlu-dev
