@@ -2,3 +2,7 @@ libblas-dev
 liblapack-dev
 libhdf5-dev	
 libhdf5-serial-dev
+libboost-dev
+libarpack++2-dev
+libsuperlu-dev
+libarmadillo-dev
