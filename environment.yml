@@ -7,4 +7,6 @@ dependencies:
   - xtensor-blas=0.19.0
   - blas=2.113
   - lapack=3.9.0
+  - libhdf5_serial
+  - libhdf5
   - notebook
