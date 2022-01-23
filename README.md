@@ -6,4 +6,4 @@ Please use the following link to launch an example C++ Jupyter Notebook in the b
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AntonioDaSilva/xeus-cling/HEAD?labpath=jupyter_armadillo.ipynb)
 
-I have found it a good practice to create a file for each library to include both the `.so` shared library files as well as include files so that the same code works both locally and in the binder. Note that there might be still some dependencies to libraries that are installed to the docker image with the `apt.txt` file which you should have install locally to be able to run the example Jupyter Notebook.
+I have found it a good practice to create a file for each library to include both the `.so` shared library files as well as `include` files so that the same code works both locally and in the binder. Note that there might be still some dependencies to libraries that are installed to the docker image with the `apt.txt` file which you should have install locally to be able to run the example Jupyter Notebook.
