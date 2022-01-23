@@ -4,3 +4,4 @@ libboost-dev
 libarpack++2-dev
 libsuperlu-dev
 libarmadillo-dev
+libcxsparse
