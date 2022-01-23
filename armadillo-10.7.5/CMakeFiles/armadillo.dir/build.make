@@ -96,12 +96,6 @@ libarmadillo.so.10.7.5: CMakeFiles/armadillo.dir/src/wrapper2.cpp.o
 libarmadillo.so.10.7.5: CMakeFiles/armadillo.dir/build.make
 libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libblas.so
 libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/liblapack.so
-libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so
-libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libpthread.so
-libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libsz.so
-libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libz.so
-libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libdl.so
-libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libm.so
 libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libarpack.so
 libarmadillo.so.10.7.5: /usr/lib/x86_64-linux-gnu/libsuperlu.so
 libarmadillo.so.10.7.5: CMakeFiles/armadillo.dir/link.txt

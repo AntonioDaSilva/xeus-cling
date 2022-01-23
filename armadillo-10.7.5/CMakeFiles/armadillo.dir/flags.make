@@ -6,5 +6,5 @@ CXX_FLAGS =  -O2 -fPIC   -std=c++11
 
 CXX_DEFINES = -Darmadillo_EXPORTS
 
-CXX_INCLUDES = -I/home/mert/Desktop/xeus-cling/armadillo-10.7.5/tmp/include -I/usr/include/hdf5/serial -I/usr/include/superlu 
+CXX_INCLUDES = -I/home/mert/Desktop/xeus-cling/armadillo-10.7.5/tmp/include -I/usr/include/superlu 
 

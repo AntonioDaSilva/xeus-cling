@@ -149,12 +149,12 @@
   //// solve(), inv(), pinv(), expmat(), logmat(), sqrtmat(), rcond()
 #endif
 
-#define ARMA_USE_HDF5_ALT
+/* #undef ARMA_USE_HDF5_ALT */
 #if defined(ARMA_USE_HDF5_ALT) && defined(ARMA_USE_WRAPPER)
   #undef  ARMA_USE_HDF5
   #define ARMA_USE_HDF5
   
-  #define ARMA_HDF5_INCLUDE_DIR /usr/include/hdf5/serial/
+  #define ARMA_HDF5_INCLUDE_DIR /
 #endif
 
 #if !defined(ARMA_MAT_PREALLOC)
@@ -340,5 +340,5 @@
 // ARMA_AUX_LIBS lists the libraries required by Armadillo on this system, and
 // ARMA_AUX_INCDIRS lists the include directories required by Armadillo on this system.
 // Do not use these unless you know what you are doing.
-#define ARMA_AUX_LIBS /usr/lib/x86_64-linux-gnu/libblas.so;/usr/lib/x86_64-linux-gnu/liblapack.so;/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so;/usr/lib/x86_64-linux-gnu/libpthread.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/libarpack.so;/usr/lib/x86_64-linux-gnu/libsuperlu.so
-#define ARMA_AUX_INCDIRS /usr/include/hdf5/serial;/usr/include/superlu
+#define ARMA_AUX_LIBS /usr/lib/x86_64-linux-gnu/libblas.so;/usr/lib/x86_64-linux-gnu/liblapack.so;/usr/lib/x86_64-linux-gnu/libarpack.so;/usr/lib/x86_64-linux-gnu/libsuperlu.so
+#define ARMA_AUX_INCDIRS /usr/include/superlu

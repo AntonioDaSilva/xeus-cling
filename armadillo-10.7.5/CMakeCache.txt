@@ -348,7 +348,7 @@ SuperLU_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/libsuperlu.so
 armadillo_BINARY_DIR:STATIC=/home/mert/Desktop/xeus-cling/armadillo-10.7.5
 
 //Dependencies for the target
-armadillo_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libblas.so;general;/usr/lib/x86_64-linux-gnu/liblapack.so;general;/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so;general;/usr/lib/x86_64-linux-gnu/libpthread.so;general;/usr/lib/x86_64-linux-gnu/libsz.so;general;/usr/lib/x86_64-linux-gnu/libz.so;general;/usr/lib/x86_64-linux-gnu/libdl.so;general;/usr/lib/x86_64-linux-gnu/libm.so;general;/usr/lib/x86_64-linux-gnu/libarpack.so;general;/usr/lib/x86_64-linux-gnu/libsuperlu.so;
+armadillo_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libblas.so;general;/usr/lib/x86_64-linux-gnu/liblapack.so;general;/usr/lib/x86_64-linux-gnu/libarpack.so;general;/usr/lib/x86_64-linux-gnu/libsuperlu.so;
 
 //Value Computed by CMake
 armadillo_SOURCE_DIR:STATIC=/home/mert/Desktop/xeus-cling/armadillo-10.7.5
