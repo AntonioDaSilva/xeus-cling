@@ -1,6 +1,6 @@
 libblas-dev
 liblapack-dev
-libhdf5-103
+libhdf5
 libboost-dev
 libarpack++2-dev
 libsuperlu-dev
