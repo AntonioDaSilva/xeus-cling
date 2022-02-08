@@ -1,8 +1,8 @@
 # Xeus-Cling C++ Jupyter Notebook for 'math+econ+code'
 
-This is a Xeus-Cling C++ Jupyter Notebook environment for 'math+econ+code' lectures by Prof. Alfred Galichon. The goal is to be able to include libraries such as `armadillo`, `igraph`, etc. and have an environment that works both in the local machine and the binder.
+This is a Xeus-Cling C++ Jupyter Notebook environment for 'math+econ+code' lectures by Prof. Alfred Galichon. The goal is to be able to include libraries such as `armadillo`, `igraph`, etc. and have an environment that works both in the local machine and the binder since `xeus-cling` is not available on Windows machines.
 
-Please use the following link to launch an example C++ Jupyter Notebook in the binder. Note that the environment is set up to include the C++ library `armadillo`, however, the package is built without `hdf5` library due to building constraints in the binder (see [here](https://stackoverflow.com/questions/70801835/how-can-i-include-openblas-and-lapack-manually-in-xeus-cling-binder))
+Please use the following link to launch an example C++ Jupyter Notebook in the binder. Note that the environment is set up to include the C++ libraries `armadillo` and `igraph`, however, the package is built without `hdf5` library due to building constraints in the binder (see [here](https://stackoverflow.com/questions/70801835/how-can-i-include-openblas-and-lapack-manually-in-xeus-cling-binder))
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AntonioDaSilva/xeus-cling/HEAD?labpath=jupyter_armadillo.ipynb)
 
